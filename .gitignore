@@ -1,0 +1,13 @@
+﻿# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Analysis outputs
+market_analysis_*.json
+
+# VS Code
+.vscode/

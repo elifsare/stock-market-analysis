@@ -1,0 +1,4 @@
+requests==2.31.0
+python-dotenv==1.0.0
+subprocess.run>=0.0.8
+json5==0.9.14
