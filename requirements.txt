@@ -1,4 +1,15 @@
+# Core dependencies
 requests==2.31.0
 python-dotenv==1.0.0
-subprocess.run>=0.0.8
 json5==0.9.14
+
+# LLM and API integration
+ollama==0.1.6
+langchain==0.0.329
+langchain-community==0.0.10
+
+# Slack integration
+slack-sdk==3.26.1
+
+# Async support
+aiohttp==3.9.1
