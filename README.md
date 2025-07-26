@@ -166,6 +166,5 @@ This tool is for educational purposes only. The trading signals and analyses gen
 
 ## 📬 Contact
 
-- Created by [Elif Sare](https://github.com/elifsare)
-- LinkedIn: [Your LinkedIn]
-- Twitter: [@YourTwitter]
+- Created by [@elifsare](https://github.com/elifsare)
+- LinkedIn: [Elif Şile](https://www.linkedin.com/in/elif-%C5%9File-8140311ab/)
